@@ -1,0 +1,23 @@
+[33mcommit 324012049a185a9f668f756348774134023e6dc2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: julietjlafen <julietjlafen@gmail.com>
+Date:   Sun Nov 26 03:27:39 2023 -0500
+
+    deployment at git
+
+[33mcommit 3f75b9355400c8d67f117aab903ed36878fb836e[m
+Author: julietjlafen <julietjlafen@gmail.com>
+Date:   Sun Nov 26 03:17:32 2023 -0500
+
+    glory
+
+[33mcommit aeee356b7d5a88b9b204cdf3fda8d6fcf00d09e8[m[33m ([m[1;31mpp/master[m[33m, [m[1;31mpaypal/master[m[33m)[m
+Author: julietjlafen <julietjlafen@gmail.com>
+Date:   Sat Nov 25 15:16:11 2023 -0500
+
+    list modified
+
+[33mcommit b1ea02ef4723be09be92d3553ec37f7516e0bacd[m
+Author: julietjlafen <julietjlafen@gmail.com>
+Date:   Sat Nov 25 15:01:00 2023 -0500
+
+    first commit
